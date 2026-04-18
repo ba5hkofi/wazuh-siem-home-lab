@@ -157,9 +157,3 @@ This behavior may indicate:
 * Improve log correlation and alerting
 
 ---
-
-## Author
-
-Alex Pära
-
-System administration background with a strong interest in cybersecurity, detection engineering, and blue team operations.
