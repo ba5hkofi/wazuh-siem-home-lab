@@ -20,6 +20,8 @@ The goal of this project was to simulate security-relevant activity and analyze 
 * **Linux Endpoint:** Debian VM with Wazuh agent
 * **Windows Endpoint:** Windows 11 VM with Wazuh agent
 
+![Architecture](architecture/architecture.png)
+
 ### Networking
 
 * NAT adapter → internet access
