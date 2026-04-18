@@ -128,13 +128,13 @@ This behavior may indicate:
 ## Screenshots
 
 ### Agents Connected
-![Agents](agents.png)
+![Agents](images/agents.png)
 
 ### Linux Failed Logins
-![Linux Auth Failures](linux-auth.failures.png)
+![Linux Auth Failures](images/linux-auth.failures.png)
 
 ### Windows User Creation & Privilege Escalation
-![Windows Priv Esc](windows-user-created-admin-group-changed.png)
+![Windows Priv Esc](images/windows-user-created-admin-group-changed.png)
 
 ---
 
