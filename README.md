@@ -19,6 +19,8 @@ The goal of this project was to simulate security-relevant activity and analyze 
 * **Wazuh Server:** Debian VM running Wazuh in Docker (single-node setup)
 * **Linux Endpoint:** Debian VM with Wazuh agent
 * **Windows Endpoint:** Windows 11 VM with Wazuh agent
+  
+The diagram below shows how endpoints communicate with the Wazuh server over an isolated internal network.
 
 ![Architecture](architecture/architecture.png)
 
