@@ -125,12 +125,14 @@ This behavior may indicate:
 
 ## Screenshots
 
-Add screenshots in the `/screenshots` folder:
+### Agents Connected
+![Agents](agents.png)
 
-* Agents connected (Linux + Windows)
-* Linux authentication failures
-* Windows user creation events
-* Windows administrator group changes
+### Linux Failed Logins
+![Linux Auth Failures](linux-auth.failures.png)
+
+### Windows User Creation & Privilege Escalation
+![Windows Priv Esc](windows-user-created-admin-group-changed.png)
 
 ---
 
